@@ -17,6 +17,6 @@ h2{
 h3{
     background-color: aquamarine;
     color: midnightblue;
-    text-decoration: underline ;
+    /* text-decoration: underline ; */
     text-align: right;
 }
