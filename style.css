@@ -1,6 +1,11 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 h1{
 background-color: black;
 color: white;
+/* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
 }
 
 #spanCloud{
@@ -12,11 +17,13 @@ h2{
     color: white;
     font-style: italic;
     text-align: center;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
 }
 
 h3{
     background-color: aquamarine;
     color: midnightblue;
-    /* text-decoration: underline ; */
     text-align: right;
+    text-decoration: underline;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
 }
